@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/firebase_reactProject/static/css/main.3fe1bc94.css",
+    "main.js": "/firebase_reactProject/static/js/main.bfebac9e.js",
+    "index.html": "/firebase_reactProject/index.html",
+    "main.3fe1bc94.css.map": "/firebase_reactProject/static/css/main.3fe1bc94.css.map",
+    "main.bfebac9e.js.map": "/firebase_reactProject/static/js/main.bfebac9e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3fe1bc94.css",
+    "static/js/main.bfebac9e.js"
+  ]
+}
